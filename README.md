@@ -1,2 +1,2 @@
 # Fundamental-Algorithms
-This folder contains a series of research questions and Python experiments designed to answer those questions.  
+This folder contains a series of research questions related to algorithm design, along with Python experiments designed to address these questions and provide answers.
